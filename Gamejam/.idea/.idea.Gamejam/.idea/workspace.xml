@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6fae37ae-dd0b-40c4-9bca-97dfa77f41eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Gamejam/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gamejam/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Gamejam/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gamejam/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Gamejam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gamejam/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/School Supplies/Notepad.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/School Supplies/Notepad.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/POLYGON city pack/Meshes,textures/traffic signs FBX/ traffic sign 4.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/POLYGON city pack/Meshes,textures/traffic signs FBX/ traffic sign 4.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/POLYGON city pack/Meshes,textures/traffic signs FBX/ traffic sign 5.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/POLYGON city pack/Meshes,textures/traffic signs FBX/ traffic sign 5.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/POLYGON city pack/Meshes,textures/traffic signs FBX/ traffic sign 6.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/POLYGON city pack/Meshes,textures/traffic signs FBX/ traffic sign 6.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/POLYGON city pack/Prefabs/Lamps/street lamp 2 prefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/POLYGON city pack/Prefabs/Lamps/street lamp 2 prefab.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/POLYGON city pack/Prefabs/Lamps/street_lamp 1 prefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/POLYGON city pack/Prefabs/Lamps/street_lamp 1 prefab.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/POLYGON city pack/Prefabs/Props/Big_trash_bin prefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/POLYGON city pack/Prefabs/Props/Big_trash_bin prefab.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/POLYGON city pack/Prefabs/Props/Bin prefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/POLYGON city pack/Prefabs/Props/Bin prefab.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/POLYGON city pack/Prefabs/Props/trashBag prefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/POLYGON city pack/Prefabs/Props/trashBag prefab.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/POLYGON city pack/scene/DemoScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/POLYGON city pack/scene/DemoScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DayNight/DayLightScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DayNight/DayLightScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/MouseLook.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/MouseLook.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/ray_pick.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/ray_pick.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/StreetLamps/LampScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/StreetLamps/LampScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/StreetLamps/ToggleLight.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/StreetLamps/ToggleLight.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ArtifactDB-lock" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ArtifactDB-lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/5f/5fc26279ba9035ea7a27cc92e3a42c38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/61/61cdcc4d07636a0ac8b3de4e98caf222" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/65/656e637a5c89020ed7e4448aba1aff6b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/73/73422d4a21dc5a654c38508d81147cb8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c0/c07b6424b5061539eaebf6bd19ea5f80" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/Artifacts/c7/c77b5550c072a135db64ab9826b658aa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentMaximizeLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/EditorUserBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Rider.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Rider.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.Timeline.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VSCode.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Unity.VSCode.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.TestRunner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.TestRunner.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEditor.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.TestRunner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.TestRunner.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/UnityEngine.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptMapper" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptMapper" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SourceAssetDB-lock" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SourceAssetDB-lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/46b7a0-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/46b7a0-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/d69a67-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/d69a67-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/InventoryText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29AD182F-AA3F-478C-9310-D6A2E7143C15/55/884c2130/Behaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interactable/TrashBag.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Inventory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29AD182F-AA3F-478C-9310-D6A2E7143C15/c2/155f8279/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/MouseLook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/playerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Cars/CarCollisions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29AD182F-AA3F-478C-9310-D6A2E7143C15/ab/1d293e7a/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interactable/SetParticleRate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StreetLamps/LampManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager/ScoreColor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interactable/Bin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FAA55637-FCC1-4BBF-B146-E6835A4641D9/78/99ffd3c5/Physics.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/29AD182F-AA3F-478C-9310-D6A2E7143C15/25/7f8b28b4/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Cars/twoMoveVehicule.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/LampScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StreetLamps/ToogleLight.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interactable/Interactable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StreetLamps/ToggleLight.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/ray_pick.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/playerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager/SliderPosition.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager/ScoreColor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Cars/twoMoveVehicle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Cars/MoveVehicles.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Cars/twoMoveVehicule.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Cars/CarCollisions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interactable/TrashBag.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager/LampMalusManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DayNight/DayLightScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/InventoryText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager/ScoreScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Inventory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StreetLamps/LampScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interactable/SetParticleRate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interactable/Bin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interactable/TrashBagBin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interactable/Paper.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StreetLamps/LampManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/MouseLook.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ls0M3W3rCvE8qs2LZyKptU1PrA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/release\Gamejam.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="E:\Users\Nicolas\Local\Travail\projects\perso\Jam-Empreinte - Copie (2)\Gamejam\release" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fae37ae-dd0b-40c4-9bca-97dfa77f41eb" name="Default Changelist" comment="" />
+      <created>1608370443506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608370443506</updated>
+      <workItem from="1608370453934" duration="4086000" />
+      <workItem from="1608383279559" duration="6865000" />
+      <workItem from="1608391055738" duration="9514000" />
+      <workItem from="1608417184518" duration="6140000" />
+      <workItem from="1608455445697" duration="13817000" />
+      <workItem from="1608564186354" duration="1358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608459291430">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608459291430" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1608485172028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608485172028" />
+  </component>
+</project>
